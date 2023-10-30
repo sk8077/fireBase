@@ -1,12 +1,12 @@
 {
   "name": "project-4",
-  "homepage": "https://github.com/sk8077/firebase-contact.git",
+  "homepage": "https://github.com/sk8077/fireBase.git",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d dist",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
